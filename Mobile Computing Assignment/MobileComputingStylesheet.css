@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(182, 182, 182);
+}
+div{
+    background-color: rgb(128, 129, 130);
+    padding: 10px;
+
+}
+h1{
+    color: beige;
+    text-align: center;
+}
+table{
+    border-width: 5px;
+    background-color: rgb(10, 127, 145);
+    border-radius: 10px;
+    text-align: center;
+}
+table, th, td{
+    border: 1px solid;
+}
+h3{
+    color: beige;
+    text-align: center;
+}
